@@ -1,6 +1,3 @@
-# Responsi-ALPRO-1
-just learn
-
 # Soal
 Responsi 1 : https://docs.google.com/document/d/1Y9poLUGXYSFVNQFQGvRx3Y9IVekCJQf3srzHM-2I9ec/edit?usp=sharing
 
